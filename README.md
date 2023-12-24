@@ -15,8 +15,6 @@ Este repositório é o resultado do curso "Curso Apache Kafka" do Professor Vald
   
 ## Realizações
 
-Ao completar este curso, fui capaz de:
-
 - Configurar ambientes de desenvolvimento com Apache Kafka, Spring Boot e Docker.
 - Desenvolver aplicações distribuídas utilizando mensageria com Kafka e serviços com Spring Boot.
 - Utilizar efetivamente o Git para versionamento de código e colaboração em equipe.
