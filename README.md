@@ -1,7 +1,7 @@
 # Projeto - Kafka  
 ## Descrição
 
-Este repositório é o resultado do curso "Curso Apache Kafka", Professor Valdir Cezar, onde adquiri conhecimentos abrangentes em tecnologias essenciais para o desenvolvimento de aplicações distribuídas. O curso focou em Apache Kafka para mensageria distribuída, Spring Boot para construção de aplicativos Java eficientes, Docker para virtualização de containers, e Git para controle de versão e colaboração em equipe.
+Este repositório é o resultado do curso "Curso Apache Kafka" do Professor Valdir Cezar, onde adquiri conhecimentos abrangentes em tecnologias essenciais para o desenvolvimento de aplicações distribuídas. O curso focou em Apache Kafka para mensageria distribuída, Spring Boot para construção de aplicativos Java eficientes, Docker para virtualização de containers, e Git para controle de versão e colaboração em equipe.
 
 ## Tecnologias Utilizadas
 
