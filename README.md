@@ -5,13 +5,13 @@ Este repositório é o resultado do curso "Curso Apache Kafka" do Professor Vald
 
 ## Tecnologias Utilizadas
 
-- **Apache Kafka**: Sistema de mensagens distribuídas para processamento de eventos em tempo real.
-- **Spring Boot**: Framework Java para criação de aplicativos empresariais.
-- **Docker**: Plataforma de virtualização de containers para facilitar a implantação e execução de aplicações.
-- **Docker Compose**: Ferramenta para definir e executar aplicativos Docker multi-container.
-- **Git**: Sistema de controle de versão distribuído.
-- **GitHub**: Plataforma de hospedagem de código-fonte usando Git.
-- **Docker Hub**: Repositório central para imagens Docker.
+- **Apache Kafka**
+- **Spring Boot**
+- **Docker**
+- **Docker Compose**
+- **Git**
+- **GitHub**
+- **Docker Hub**
   
 ## Realizações
 
