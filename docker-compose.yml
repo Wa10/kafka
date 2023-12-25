@@ -25,6 +25,27 @@ services:
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
 
+  payment:
+    image: walacealves10/payment-service:1.0.2
+    networks:
+      - broker-kafka
+    depends_on:
+      - kafka
+    ports:
+      - "8000:8000"
+    environment:
+      KAFKA_HOST: kafka:29092
+
+  consumer:
+    image: walacealves10/json-consumer:1.0.1
+    networks:
+      - broker-kafka
+    depends_on:
+      - kafka
+      - payment
+    environment:
+      KAFKA_HOST: kafka:29092    
+
   kafdrop:
     image: obsidiandynamics/kafdrop:latest
     networks:
